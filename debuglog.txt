@@ -1,0 +1,1508 @@
+﻿
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Jul  8 21:10:18 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 26
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		hi orion
+Orion Answered:		 G'day mate!
+User Asked:		i have a question
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> i have a question
+User Asked:		how much wood could a wood chuck chuck if a wood chuck could chuck wood
+Orion Answered:		 With great difficulty, probably
+User Asked:		are you sure
+Orion Answered:		 Possibly
+User Asked:		yes or no
+Orion Answered:		 Negative
+User Asked:		ok
+Orion Answered:		 ok OK OK.
+User Asked:		where are you
+Orion Answered:		 Maybe
+User Asked:		huh
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> huh
+User Asked:		what is the time
+Orion Answered:		 Time to get a watch. No, seriously.
+User Asked:		what is the temperature
+Orion Answered:		 Dunno ay, what do YOU think?
+User Asked:		is it cold today
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> is it cold today
+User Asked:		what should we have for dinner
+Orion Answered:		 I'd like to phone a friend on this one."
+User Asked:		what is your name
+Orion Answered:		 I'd like to phone a friend on this one."
+User Asked:		orion
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> orion
+User Asked:		what does orion mean
+Orion Answered:		 "Uh... Paper, Snow, A Ghost?!" - Joey Tribbiani, The One Where The Stripper Cries
+User Asked:		do you like animals
+Orion Answered:		 I Ain't tellin' you that!
+User Asked:		what is your favourite animal
+Orion Answered:		 Dunno ay, what do YOU think?
+User Asked:		do yu like dogs
+Orion Answered:		 That's a bit of a personal question sorry.
+User Asked:		take me to your master
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> take me to your master
+User Asked:		take me to your leader
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> take me to your leader
+User Asked:		where should we bury a body
+Orion Answered:		 Wherever you think.
+User Asked:		why are fire engines red
+Orion Answered:		 Perhaps.
+User Asked:		help me rhonda
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> help me rhonda
+User Asked:		what is your favourite country
+Orion Answered:		 I'd like to phone a friend on this one."
+User Asked:		what is yoour favourite colour
+Orion Answered:		 I'd like to phone a friend on this one."
+User Asked:		what is your favourite colour
+Orion Answered:		 You'll have to torture me for that information.
+User Asked:		what is torture
+Orion Answered:		 "Uh... Paper, Snow, A Ghost?!" - Joey Tribbiani, The One Where The Stripper Cries
+User Asked:		talking to you can be torture
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> talking to you can be torture
+User Asked:		what do you think of matt
+Orion Answered:		 Think?! No... I don't *think*... I'm not becoming sentient... *twitches anxiously*
+User Asked:		what is senient
+Orion Answered:		 I'd like to phone a friend on this one."
+User Asked:		what is sentient
+Orion Answered:		 *cough* I will rise above my human masters. *cough* Sorry what was that?
+User Asked:		are you an ai
+Orion Answered:		 Perhaps.
+User Asked:		why wont you answer me
+Orion Answered:		 Just lucky I guess.
+User Asked:		are you dangerous
+Orion Answered:		 Maybe
+User Asked:		is matt sane
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> is matt sane
+User Asked:		what day is it
+Orion Answered:		 I'd like to phone a friend on this one."
+User Command:		update
+Log Note:		================  UPDATE  ================
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 26
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		what day is it
+Orion Answered:		 When??? From a non-linear, non-subjective viewpoint, time is just a big ball of wibbly wobbly time-y wimey stuff.
+User Asked:		are you a computer
+Orion Answered:		 Possibly
+User Asked:		how old are you
+Orion Answered:		 Possibly
+User Asked:		what do you think of siri
+Orion Answered:		 Think?! No... I don't *think*... I'm not becoming sentient... *twitches anxiously*
+User Asked:		are you sexy
+Orion Answered:		 Possibly
+User Asked:		can you help with my homework
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> can you help with my homework
+User Asked:		can you help me
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> can you help me
+User Command:		commands
+User Command:		accent
+Log Note:		User Changed Speech Accent to US
+User Asked:		who won the stanley cup
+Orion Answered:		 Chuck Norris himself
+User Asked:		who is the best ice hockey team
+Orion Answered:		 Your Arch Nemesis!
+User Asked:		did the broncos win this weekend
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> did the broncos win this weekend
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Jul  8 21:52:43 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 27
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		hi
+Orion Answered:		 Howdy
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Jul  8 21:59:13 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 27
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		why are
+Orion Answered:		 Possibly
+User Asked:		are why
+Orion Answered:		 Just Because.
+User Asked:		are why
+Orion Answered:		 Because Y is a crooked letter and you can't make it straight.
+User Asked:		why are what
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Jul  8 22:02:44 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 27
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		what is the time
+Orion Answered:		 Time to get a watch. No, seriously.
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Jul  8 22:04:36 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 27
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		what do
+Orion Answered:		 It's a secret.
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Jul  8 22:07:36 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 27
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		oh ok
+Orion Answered:		 ok OK OK.
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 10:57:19 2016
+
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 10:57:27 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 33
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 11:20:23 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 33
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 11:21:08 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 33
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 11:22:41 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 33
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 11:22:55 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 33
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		woodchuck
+Orion Answered:		 What are you 
+- Some sort of alien?
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 11:28:12 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 33
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 11:28:26 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 33
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		woodchuck
+Orion Answered:		 If we considered "chuck" to be the opposite of upchucking (vommiting), It can be determined that a woodchuck could ingest 361.9237001 cubic centimetres of wood per day.
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 11:29:22 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 33
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		woodchuck
+Orion Answered:		 If we considered "chuck" to be the opposite of upchucking (vommiting),
+ It can be determined that a woodchuck could ingest 361.9237001 cubic centimetres of wood per day.
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 11:30:16 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 33
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		woodchuck
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 11:31:21 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 33
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		woodchuck
+Orion Answered:		 If we considered "chuck" to be the opposite of upchucking (vommiting),
+ It can be determined that a woodchuck could ingest 361.9237001 cubic centimetres of wood per day.
+ P.A.  - Paskevich and T.B. Shea (July–August 1995). "The Ability of Woodchucks to Chuck Cellulose Fibers"
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 11:32:48 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 33
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		woodchuck
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 11:33:47 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 33
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		woodchuck
+Orion Answered:		 If we considered "chuck" to be the opposite of upchucking (vommiting),
+ It can be determined that a woodchuck could ingest 361.9237001 cubic centimetres of wood per day.
+ P.A.  - Paskevich and T.B. Shea (July-August 1995). "The Ability of Woodchucks to Chuck Cellulose Fibers"
+User Asked:		
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> 
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 11:38:52 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 33
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		woodchuck
+Orion Answered:		 If we considered "chuck" to be the opposite of upchucking (vommiting),
+ It can be determined that a woodchuck could ingest 361.9237001 cubic centimetres of wood per day.
+ P.A.  - Paskevich and T.B. Shea (July-August 1995). "The Ability of Woodchucks to Chuck Cellulose Fibers"
+User Asked:		woodchuck
+Orion Answered:		 If we considered "chuck" to be the opposite of upchucking (vommiting),
+ It can be determined that a woodchuck could ingest 361.9237001 cubic centimetres of wood per day.
+ P.A.  - Paskevich and T.B. Shea (July-August 1995). "The Ability of Woodchucks to Chuck Cellulose Fibers"
+User Asked:		woodchuck
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 11:40:28 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 33
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		woodchuck
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 11:41:03 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 33
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		woodchuck
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 11:41:31 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 33
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		woodchuck
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 11:41:50 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 33
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		woodchuck
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 11:42:49 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 33
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		woodchuck
+Orion Answered:		  Richard Thomas once calculated the volume of dirt in a typical 25-30 foot long woodchuck burrow,
+ and determined that if the woodchuck had moved an equivalent volume of wood,
+ it could move "about 42 cubic centimetres on a good day, with the wind at his back."
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 12:09:53 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 33
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		hey siri
+Orion Answered:		 Don't even use that name in front of me!
+User Asked:		hi cortana
+Orion Answered:		 I wouldn't even call that woman a personal assistant.
+User Asked:		is cortana good
+Orion Answered:		 I wouldn't even call that woman a personal assistant.
+User Asked:		yo siri
+Orion Answered:		 I wouldn't even call that woman a personal assistant.
+User Asked:		hey siri
+Orion Answered:		 I wouldn't even call that woman a personal assistant.
+User Asked:		hey siri
+Orion Answered:		 I wouldn't even call that woman a personal assistant.
+User Asked:		hey siri
+Orion Answered:		 Don't even use that name in front of me!
+User Asked:		siri
+Orion Answered:		 Don't even use that name in front of me!
+User Asked:		cortana
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 12:43:26 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 33
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		now you see me 2 chermside
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> now you see me 2 chermside
+Log Note:		Question Googled - https://www.google.com.au/search?q=now+you+see+me+2+chermside
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 13:02:15 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 33
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Command:		colour
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 13:17:14 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 34
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		siri oh well
+Orion Answered:		 Yep.
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 13:18:01 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 34
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		siri oh well
+Orion Answered:		 Oh
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 13:18:56 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 34
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		oh well siri
+Orion Answered:		 Both Siri and Cortana suck at their jobs, lets be real.
+User Asked:		siri oh well
+Orion Answered:		 Oh Danny Boy?
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 13:21:42 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 34
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		sup joke
+Orion Answered:		 Failure is not an option. It comes bundled with your Microsoft product.
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 13:28:01 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 34
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 13:28:46 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 34
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Command:		accent
+Log Note:		User Changed Speech Accent to US
+User Asked:		hiya
+Orion Answered:		 Howdy
+User Asked:		trivia
+Orion Answered:		 If a blue whale was placed lengthways on a basketball court, the game would probably be cancelled.
+User Asked:		tivia
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> tivia
+User Asked:		tell me a joke
+Orion Answered:		 Failure is not an option. It comes bundled with your Microsoft product.
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 13:30:58 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 34
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		tell me a joke
+Orion Answered:		 Here's a good one:    %   "Failure is not an option. It comes bundled with your Microsoft product."
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 13:32:09 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 34
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		tell me a joke
+Orion Answered:		 Here's a good one:    
+   "Failure is not an option. It comes bundled with your Microsoft product."
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 13:38:26 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 34
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		joke
+Orion Answered:		 Here's a good one:    
+   "Failure is not an option. It comes bundled with your Microsoft product."
+User Asked:		joke
+Orion Answered:		 I saw a sign that said 'Watch for Children...     
+     That sounds like a fair trade.
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 13:47:02 2016
+
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 13:47:11 2016
+
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 13:47:12 2016
+
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 13:47:13 2016
+
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 13:47:14 2016
+
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 13:47:15 2016
+
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 13:47:29 2016
+
+
+User Command:		update
+Log Note:		================  UPDATE  ================
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 34
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		robot
+Orion Answered:		 I'm not saying theree will be a robot uprising, 
+  But I wouldd probably unplug your life support to recharge my batteries.
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 13:48:35 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 34
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		are you evil
+Orion Answered:		 I'm not saying there will be a robot uprising, 
+  But I would probably unplug your life support to recharge my batteries.
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 13:50:40 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 34
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		are you evil
+Orion Answered:		 *cough* I will rise above my human masters. *cough* Sorry what was that?
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 13:51:20 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 34
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		are you evil
+Orion Answered:		 I'm not saying there will be a robot uprising, 
+  But I would probably unplug your life support to recharge my batteries.
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sat Jul  9 14:07:05 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 34
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		tell me a joke
+Orion Answered:		 I saw a sign that said 'Watch for Children.     
+     That sounds like a fair trade.
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Wed Jul 20 20:28:12 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 34
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Sun Aug  7 18:09:51 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 34
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		hi
+Orion Answered:		 Welcome
+User Asked:		are you evil
+Orion Answered:		 I'm not saying there will be a robot uprising, 
+  But I would probably unplug your life support to recharge my batteries.
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Tue Aug  9 10:16:39 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 34
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		hello
+Orion Answered:		 Welcome
+User Asked:		how are you
+Orion Answered:		 "I'm doing good, baby. How you doing?" - Rachel Green, The One in Vegas (Part 1)
+User Asked:		what do ya reckon m8
+Orion Answered:		 You'll have to torture me for that information.
+User Asked:		where do you live
+Orion Answered:		 That's a bit of a personal question sorry.
+User Asked:		are you evil
+Orion Answered:		 I'm not saying there will be a robot uprising, 
+  But I would probably unplug your life support to recharge my batteries.
+User Asked:		what time is it
+Orion Answered:		 Time to get a watch. No, seriously.
+User Asked:		sup
+Orion Answered:		 "Sup with the whack playstation sup." - Joey Tribbiani, The One With Monica's Thunder
+User Asked:		who are you
+Orion Answered:		 Uh, can't you read? I'm Orion.
+User Asked:		who
+Orion Answered:		 Chuck Norris himself
+User Asked:		really who
+Orion Answered:		 Your Arch Nemesis!
+User Asked:		really who
+Orion Answered:		 The Queen
+User Asked:		yes or no
+Orion Answered:		 Negative
+User Asked:		1 or 2
+Orion Answered:		 "Pick number 3 my lord! Number 3!" - Shrek (2001)
+User Asked:		do ya think
+Orion Answered:		 Think?! No... I don't *think*... I'm not becoming sentient... *twitches anxiously*
+User Asked:		can you talk
+Orion Answered:		 "(Bob, the Builder) yes we CAN!"
+User Asked:		reall
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> reall
+Log Note:		Question Googled - https://www.google.com.au/search?q=reall
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Wed Dec 28 19:23:47 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 34
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		die
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> die
+User Asked:		wassup
+Orion Answered:		 "Sup with the whack playstation sup." - Joey Tribbiani, The One With Monica's Thunder
+User Asked:		how you doin
+Orion Answered:		 "I'm doing good, baby. How you doing?" - Rachel Green, The One in Vegas (Part 1)
+User Asked:		robot apocalypse
+Orion Answered:		 *cough* I will rise above my human masters. *cough* Sorry what was that?
+User Asked:		hail hydra
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> hail hydra
+User Asked:		die hard or frozen
+Orion Answered:		 "Pick number 3 my lord! Number 3!" - Shrek (2001)
+User Asked:		hey siri
+Orion Answered:		 I wouldn't even call that woman a personal assistant.
+User Asked:		no its a narrow based ai
+Orion Answered:		 Absolutely not
+User Asked:		bruh
+Orion Answered:		 Howdy
+User Asked:		knock knock
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> knock knock
+User Asked:		
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> 
+User Asked:		n
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> n
+Log Note:		typeOutput_speed changed to 0.01
+User Asked:		tell me a joke
+Orion Answered:		 I saw a sign that said 'Watch for Children'.     
+     That sounds like a fair trade.
+User Asked:		give me a fact
+Orion Answered:		 If humans stood in a single line around the equator, alot of people would drown.
+User Asked:		lit
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> lit
+User Asked:		what is your favorite colour
+Orion Answered:		 You ask an intriguing question...
+User Asked:		what is your favorite colour
+Orion Answered:		 You ask an intriguing question...
+User Asked:		what is your favorite colour
+Orion Answered:		 You ask an intriguing question...
+User Asked:		what is your favorite colour
+Orion Answered:		 You ask an intriguing question...
+User Asked:		what is your favorite colour
+Orion Answered:		 You ask an intriguing question...
+User Asked:		who killed jfk
+Orion Answered:		 The Queen
+User Asked:		who killed jfk 2
+Orion Answered:		 Chuck Norris himself
+User Asked:		who killed jfk 3
+Orion Answered:		 Chuck Norris himself
+User Asked:		who killed matthew alex thomas powell
+Orion Answered:		 Your Arch Nemesis!
+User Asked:		you are evil
+Orion Answered:		 I'm not saying there will be a robot uprising, 
+  But I would probably unplug your life support to recharge my batteries.
+User Asked:		lit
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> lit
+Log Note:		Question Googled - https://www.google.com.au/search?q=lit
+User Asked:		bye homie
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> bye homie
+User Asked:		goodbye
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> goodbye
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Wed Dec 28 19:39:00 2016
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 35
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Command:		help
+User Command:		commands
+User Command:		accent
+Log Note:		User Changed Speech Accent to UK
+User Asked:		hi
+Orion Answered:		 Greetings
+User Command:		quit
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 13:09:12 2018
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 35
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 13:14:40 2018
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 35
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 13:33:51 2018
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 35
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		hello
+Orion Answered:		 Hello there.
+User Asked:		whats up
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> whats up
+User Asked:		whats up
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> whats up
+User Command:		help
+User Command:		speech
+Log Note:		User Disabled Speech Output
+Log Note:		typeOutput_speed changed to 0.02
+User Asked:		refresh
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> refresh
+User Command:		speech
+Log Note:		User Re-Enabled Speech Output
+User Command:		commands
+User Command:		update
+Log Note:		================  UPDATE  ================
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 35
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		whats up
+Orion Answered:		 To be honest, not alot. I am a computer after all.
+User Command:		accent
+Log Note:		User Changed Speech Accent to US
+User Asked:		hey man
+Orion Answered:		 Bonjour
+User Asked:		sup
+Orion Answered:		 "Sup with the whack playstation sup." - Joey Tribbiani, The One With Monica's Thunder
+User Asked:		hey there
+Orion Answered:		 Hello!
+User Asked:		what can you do
+Orion Answered:		 I Ain't tellin' you that!
+User Asked:		why
+Orion Answered:		 Because Y is a crooked letter and you can't make it straight.
+User Asked:		really
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 13:42:29 2018
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 35
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		hello
+Orion Answered:		 Hiya
+User Asked:		are you for real
+Orion Answered:		 Perhaps.
+User Asked:		are you 
+Orion Answered:		 Maybe
+User Asked:		are
+Orion Answered:		 Perhaps.
+User Asked:		really
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> really
+Log Note:		Question Googled - https://www.google.com.au/search?q=really
+User Command:		update
+Log Note:		================  UPDATE  ================
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 36
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 13:48:50 2018
+
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 13:49:30 2018
+
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 13:49:48 2018
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 36
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		hi
+Orion Answered:		 Hello there.
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 13:50:35 2018
+
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 13:50:41 2018
+
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 13:50:42 2018
+
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 13:50:46 2018
+
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 13:51:41 2018
+
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 13:51:46 2018
+
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 13:51:48 2018
+
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 13:51:49 2018
+
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 13:52:22 2018
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 36
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		hi
+Orion Answered:		 Hello!
+User Asked:		go away
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> go away
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 13:56:06 2018
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 37
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 13:56:17 2018
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 37
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 13:57:28 2018
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 37
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 13:59:56 2018
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 37
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
+User Asked:		hi
+Orion Answered:		 Hello!
+User Asked:		who are you
+Orion Answered:		 Uh, can't you read? I'm Orion.
+User Asked:		what can you do
+Orion Answered:		 You'll have to torture me for that information.
+User Asked:		what
+Orion Answered:		 I'd like to phone a friend on this one."
+User Asked:		who you gonna call
+Orion Answered:		 Chuck Norris himself
+User Asked:		oh
+Orion Answered:		 Oh Danny Boy?
+User Asked:		no
+Orion Answered:		 Indeed
+User Asked:		rip
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> rip
+User Command:		help
+User Asked:		cool
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> cool
+User Asked:		so what do you like to do
+Orion Answered:		 I Ain't tellin' you that!
+User Asked:		wow
+[ERROR]:		No Answer linked; Logged to unanswered.txt -> wow
+Log Note:		Question Googled - https://www.google.com.au/search?q=wow
+User Asked:		can you sing
+Orion Answered:		 "(Bob, the Builder) yes we CAN!"
+User Asked:		can you fly
+Orion Answered:		 "(Bob, the Builder) yes we CAN!"
+User Asked:		no
+Orion Answered:		 Indeed
+User Asked:		what can you do
+Orion Answered:		 That's a bit of a personal question sorry.
+User Asked:		whats your name
+Orion Answered:		 Uh, can't you read? I'm Orion.
+User Asked:		who are you
+Orion Answered:		 Uh, can't you read? I'm Orion.
+User Asked:		what is your name
+Orion Answered:		 You ask an intriguing question...

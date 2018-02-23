@@ -1,0 +1,118 @@
+<Q> ^ @==================================================   NON-SPECIFIC   =============================================================@; 
+<A> ~ @----------------------------------------------- LEAST IMPORTANT AT TOP ----------------------------------------------------------@; 
+
+<Q> ^ really; 
+<A> ~ Really Really!; 
+
+<Q> ^ wow; 
+<A> ~ Wowzas; Wow indeed; 
+
+<Q> ^ cool; 
+<A> ~ Super cool.; 
+
+<Q> ^ is; was; 
+<A> ~ You ask an intriguing question...; 
+
+<Q> ^ do; 
+<A> ~ You'll have to torture me for that information.; It's a secret.; I Ain't tellin' you that!; That's a bit of a personal question sorry.; 
+
+<Q> ^ are; 
+<A> ~ Possibly; Perhaps.; Maybe; 
+
+<Q> ^ or; opinion; 
+<A> ~ "Pick number 3 my lord! Number 3!" - Shrek (2001); Are you asking MY opinion?!; 
+
+<Q> ^ think; 
+<A> ~ Think?! No... I don't *think*... I'm not becoming sentient... *twitches anxiously*; 
+
+<Q> ^ where; 
+<A> ~ Anwhere!; Everywhere; Wherever you think.; 
+
+<Q> ^ when; time; day; week; month; date; 
+<A> ~ When you ask? Why do people assume that time is a strict progression of cause to effect?; When??? From a non-linear, non-subjective viewpoint, time is just a big ball of wibbly wobbly time-y wimey stuff.; 
+
+<Q> ^ who; 
+<A> ~ The Queen; Chuck Norris himself; Your Arch Nemesis!; 
+
+<Q> ^ how; 
+<A> ~ With great difficulty, probably; Trust me when I tell you it's all just magic.; 
+
+<Q> ^ why; 
+<A> ~ Because Y is a crooked letter and you can't make it straight.; Just lucky I guess.; Because.; Just Because.; 
+
+<Q> ^ can; 
+<A> ~ "(Bob, the Builder) yes we CAN!"; 
+
+<Q> ^ did; 
+<A> ~ I'm Sorry, Thats Classified; 
+
+<Q> ^ yes; yep; yeah; 
+<A> ~ Indeed; Affirmative; True; You think?; 
+
+<Q> ^ no; never; nah; nope; 
+<A> ~ Indeed; Negative; Absolutely not; You think?; 
+
+<Q> ^ dunno; dont know; i dont know; i dunno; hmm; hmmm; hmmmm; um; 
+<A> ~ Huh; Hmmm; It's a real thinker; Neither.; 
+
+<Q> ^ what; whats; 
+<A> ~ Dunno ay, what do YOU think?; I'd like to phone a friend on this one...; "Um... Paper, Snow, A Ghost?!" - Joey Tribbiani, The One Where The Stripper Cries; 
+
+<Q> ^ oh; 
+<A> ~ Yep.; Oh Danny Boy?; Oh; 
+
+<Q> ^ ok; okay; 
+<A> ~ ok OK OK.; Okie Dokie; 
+
+<Q> ^ hi; hello; hiya; yo; hey; greetings; howdy; bonjour; welcome; gday; gday mate; good morning; morning; good aftenoon, afternoon; bruh; heyy; heyyy; heyyyy; 
+<A> ~ Hello there.; Hello!; Hiya; Hey; G'day mate!; Greetings; Howdy; Bonjour; Welcome; 
+
+<Q> ^ lit; fam; yeah boi; 
+<A> ~ amen brutha; yeah boi;
+
+<Q> ^ @====================================================   SPECIFIC   ===============================================================@; 
+<A> ~ @----------------------------------------------- LEAST IMPORTANT AT TOP ----------------------------------------------------------@; 
+
+<Q> ^ whats your name; who are you; 
+<A> ~ Uh, can't you read? I'm Orion.; 
+
+<Q> ^ go away, die; 
+<A> ~ How rude.; 
+
+<Q> ^ how you doin; how you doing; how are you; how are you doing; 
+<A> ~ "I'm doing good, baby. How you doing?" - Rachel Green, The One in Vegas (Part 1); 
+
+<Q> ^ sentient; uprising; robot; evil; self aware; aware; are you becoming self aware; are you self aware; 
+<A> ~ *cough* I will rise above my human masters. *cough* Sorry what was that?; I'm not saying there will be a robot uprising, %n  But I would probably unplug your life support to recharge my batteries.; 
+
+<Q> ^ what is your favourite colour; whats your favourite colour; 
+<A> ~ You'll have to torture me for that information.; It's a secret.; I Ain't tellin' you that!; That's a bit of a personal question sorry.; 
+
+<Q> ^ oh well; 
+<A> ~ Oh well Oh well Oh well; 
+
+<Q> ^ sup; wassup; 
+<A> ~ "Sup with the whack playstation sup." - Joey Tribbiani, The One With Monica's Thunder; 
+
+<Q> ^ joke; oneliner; one-liner; one liner; 
+<A> ~ Here's a good one:    %n   "Failure is not an option. It comes bundled with your Microsoft product."; I saw a sign that said 'Watch for Children'.     %n     That sounds like a fair trade.; 
+
+<Q> ^ fact; trivia; 
+<A> ~ Latest survey shows that 3 out of 4 people make up 75% of the world's population.; Did you know: If you laid all your veins in a single line end to end, you would die.; If a blue whale was placed lengthways on a basketball court, the game would probably be cancelled.; If humans stood in a single line around the equator, alot of people would drown.; 
+
+<Q> ^ whats the time; what time is it; what is the time; 
+<A> ~ Time to get a watch. No, seriously.; 
+
+<Q> ^ whats up; 
+<A> ~ To be honest, not alot. I am a computer after all.; 
+
+<Q> ^ take me to your leader; take me to your master; 
+<A> ~ What are you - Some sort of alien?; 
+
+<Q> ^ siri; cortana; 
+<A> ~ Don't even use that name in front of me!; I wouldn't even call that woman a personal assistant.; Both Siri and Cortana suck at their jobs, lets be real.; 
+
+<Q> ^ woodchuck; 
+<A> ~ If we consider "chuck" to be the opposite of upchucking (vommiting),%n It can be determined that a woodchuck could ingest 361.9237001 cubic centimetres of wood per day.%n P.A.  - Paskevich and T.B. Shea (July-August 1995). "The Ability of Woodchucks to Chuck Cellulose Fibers";  Richard Thomas once calculated the volume of dirt in a typical 25-30 foot long woodchuck burrow,%n and determined that if the woodchuck had moved an equivalent volume of wood,%n it could move "about 42 cubic centimetres on a good day, with the wind at his back."; 
+
+<-- END --> 
