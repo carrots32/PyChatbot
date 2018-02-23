@@ -1506,3 +1506,41 @@ User Asked:		who are you
 Orion Answered:		 Uh, can't you read? I'm Orion.
 User Asked:		what is your name
 Orion Answered:		 You ask an intriguing question...
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 14:16:30 2018
+
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 14:16:31 2018
+
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 14:16:33 2018
+
+
+Log Note:		
+
+****************NEW INSTANCE OF CHATBOT OPENED****************
+
+Log Note:		Startup Time: Fri Feb 23 14:16:36 2018
+
+
+Log Note:		speechfile directory wiped
+Log Note:		intitialSetup() started
+Log Note:		listQA.txt opened
+Log Note:		Possible Questions - 39
+Log Note:		All Questions and Answers formatted as lists. (AllQandA variable)
+Log Note:		All Questions formatted as separate lists. (allQ variable)
+Log Note:		All Answers formatted as separate lists. (allA variable)
+Log Note:		listQA.txt closed
+Log Note:		intitialSetup() ended
+
